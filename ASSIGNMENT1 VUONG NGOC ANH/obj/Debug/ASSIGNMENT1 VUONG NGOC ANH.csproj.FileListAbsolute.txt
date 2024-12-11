@@ -1,0 +1,171 @@
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ASSIGNMENT1 VUONG NGOC ANH.exe.config
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ASSIGNMENT1 VUONG NGOC ANH.exe
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ASSIGNMENT1 VUONG NGOC ANH.pdb
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Properties.Resources.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.exe
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.pdb
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Change_Password.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Customer_Management.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Login.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Core.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Identity.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Buffers.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ClientModel.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.Data.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.AccessControl.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Permissions.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Json.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ValueTuple.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Core.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Identity.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Buffers.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ClientModel.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.Data.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.AccessControl.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Permissions.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Json.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ValueTuple.xml
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNME.7865053E.Up2Date
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Order_and_Order_Detail.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Warehouse_Manager.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Admin.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.ManageEmployee.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.StaffForm.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.ManageCategory.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.SALEFORM.resources
+C:\Users\thanh\source\repos\ASSIGNMENT1 VUONG NGOC ANH\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.PRODUCTMANAGE.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ASSIGNMENT1 VUONG NGOC ANH.exe.config
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ASSIGNMENT1 VUONG NGOC ANH.exe
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\ASSIGNMENT1 VUONG NGOC ANH.pdb
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Core.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Identity.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ClientModel.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.Data.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Permissions.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Core.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Azure.Identity.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ClientModel.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Memory.Data.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Permissions.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Admin.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.ManageCategory.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Change_Password.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Customer_Management.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Login.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.ManageEmployee.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Order_and_Order_Detail.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.PRODUCTMANAGE.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Properties.Resources.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.SALEFORM.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.StaffForm.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1_VUONG_NGOC_ANH.Warehouse_Manager.resources
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNME.7865053E.Up2Date
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.exe
+C:\Users\nguye\Downloads\a\ASSIGNMENT1 VUONG NGOC ANH\obj\Debug\ASSIGNMENT1 VUONG NGOC ANH.pdb
